@@ -1,0 +1,13 @@
+[package]
+name = "kpath"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+color-eyre = "0.6.5"
+crossterm = "0.29.0"
+fakeit = "1.4.1"
+itertools = "0.15.0"
+ratatui = "0.30.2"
+unicode-width = "0.2.2"
+
